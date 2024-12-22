@@ -30,8 +30,8 @@ jobs:
 
       - name: Run unit tests
         run: 
-          python.exe -m unittest triangle.py
-          python.exe -m unittest circe.py
-          python.exe -m unittest square.py
-          python.exe -m unittest rectangle.py
+          python -m unittest triangle.py
+          python -m unittest circe.py
+          python -m unittest square.py
+          python -m unittest rectangle.py
           
