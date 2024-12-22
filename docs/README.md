@@ -75,7 +75,7 @@ Date:   Thu Mar 4 14:54:08 2021 +0300
 ```
 
 ## К решению приложены тесты, команды для тестов:
-circle.py : python.exe -m unittest circle.py
-rectangle.py: python.exe -m unittest rectangle.py
-square.py: python.exe -m unittest square.py
+circle.py : python.exe -m unittest circle.py\
+rectangle.py: python.exe -m unittest rectangle.py\
+square.py: python.exe -m unittest square.py\
 triangle.py: python.exe -m unittest triangle.py
