@@ -29,9 +29,4 @@ jobs:
         run: |
 
       - name: Run unit tests
-        run: 
-          python -m unittest triangle.py
-          python -m unittest circe.py
-          python -m unittest square.py
-          python -m unittest rectangle.py
-          
+        run: python -m unittest triangle.py circle.py square.py rectangle.py
